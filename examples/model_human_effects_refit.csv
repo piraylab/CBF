@@ -1,0 +1,5 @@
+model,effect,pearson_r
+CBF,Volatility,0.515561177808825
+CBF,Stochasticity,0.612743643583187
+RBPF,Volatility,0.34217556022904
+RBPF,Stochasticity,0.359352498873791

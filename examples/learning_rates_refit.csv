@@ -1,0 +1,6 @@
+labels,rho,pvalue,n
+"Across-subject average",0.866214208030524,0,643
+"Low V, low S",0.71009950292323,0,643
+"High V, low S",0.809445569050934,0,643
+"Low V, high S",0.78468570937462,0,643
+"High V, high S",0.836007051031416,0,643

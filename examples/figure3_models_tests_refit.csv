@@ -1,0 +1,7 @@
+scale,parameter,t_paper_direction,df,p
+CBF unconstrained y,Volatility,-5.23371123962405,153,5.39571666946923e-07
+CBF unconstrained y,Stochasticity,-10.0086811387794,153,1.87676358461488e-18
+CBF transformed eta,Volatility,-5.35023052587946,153,3.14911615997899e-07
+CBF transformed eta,Stochasticity,-9.76251598498845,153,8.40823858896563e-18
+RBPF native mu,Volatility,-0.116837957517184,153,0.907141691098567
+RBPF native mu,Stochasticity,-2.84136999523539,153,0.00510453004711794

@@ -1,0 +1,14 @@
+# Downloaded Bird Task data. Fitting checkpoints in results/ also store copies
+# of the trial-level responses, so neither folder may be committed.
+data/
+results/
+*.mat
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# MATLAB autosave and macOS files
+*.asv
+.DS_Store

@@ -1,0 +1,9 @@
+model,group,parameter,mean,sem
+CBF,Volatility-blind,Volatility,0.134492422574992,0.0197970565101752
+CBF,Volatility-blind,Stochasticity,0.391225576859006,0.0174537083340889
+CBF,Stochasticity-blind,Volatility,0.28703008968017,0.0204755305171418
+CBF,Stochasticity-blind,Stochasticity,0.128520855244989,0.020363194281896
+RBPF,Volatility-blind,Volatility,0.63041149988701,0.0101770163428926
+RBPF,Volatility-blind,Stochasticity,0.586181229092457,0.00975462956360982
+RBPF,Stochasticity-blind,Volatility,0.632637408505834,0.00901842295409575
+RBPF,Stochasticity-blind,Stochasticity,0.549538542101504,0.00822211520322898
